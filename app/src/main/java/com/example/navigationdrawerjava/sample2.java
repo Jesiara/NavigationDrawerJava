@@ -1,7 +1,7 @@
 package com.example.navigationdrawerjava;
 
 public class sample2 {
-    String name,email;
+    String name,email,roll;
     public sample2(String name, String email) {
         this.name = name;
         this.email = email;
